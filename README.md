@@ -39,12 +39,6 @@ Visual Studio Code
 ### Deployement - 
 The project is deployed on local machine 127.0.0.1:5000/predict and AWS EC2 instance.
 
-
-
-
-
-
-
 ## Demo
 
 Insert gif or link to demo
