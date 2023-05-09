@@ -40,6 +40,6 @@ Visual Studio Code
 The project is deployed on local machine 127.0.0.1:5000/predict and AWS EC2 instance.
 
 ### Demo Video Link - [project demo video link](https://youtu.be/SqDMnFwF_mA)
-### Deployment Link - 
-http://ec2-16-16-146-17.eu-north-1.compute.amazonaws.com:8080/predict
+### Deployment on AWS EC2 Instance 
+Link - http://ec2-16-16-146-17.eu-north-1.compute.amazonaws.com:8080/predict
 
